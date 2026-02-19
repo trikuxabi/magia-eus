@@ -22,9 +22,11 @@ sections:
           enable: true
 
   - block: collection
-    id: papers
+    id: books
     content:
       title: Gidaliburuak
+      count: 0
+      page_type: publication
       filters:
         folders:
           - gidaliburuak

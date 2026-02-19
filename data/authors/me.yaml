@@ -1,0 +1,22 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Magia gidaliburuak
+  given: Alex
+  family: Johnson
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns:
+status:
+  icon:
+role: 
+bio: |
+  Magia ikasi nahi baduzu, leku egokira iritsi zara!
+
+links:
+  - icon: at-symbol
+    url: mailto:xabi@trikuxabi.eus
+    label: E-mail
+  - icon: brands/instagram
+    url: https://instagram.com/trikuxabi

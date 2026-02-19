@@ -36,7 +36,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Bloga
+      title: Berriak
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

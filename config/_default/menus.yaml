@@ -7,7 +7,7 @@ main:
   - name: Hasiera
     url: /
     weight: 10
-  - name: Bloga
+  - name: Berriak
     url: /
     weight: 20
   - name: Kontaktua

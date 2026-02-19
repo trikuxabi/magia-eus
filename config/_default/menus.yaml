@@ -7,3 +7,9 @@ main:
   - name: Hasiera
     url: /
     weight: 10
+  - name: Bloga
+    url: /
+    weight: 20
+  - name: Kontaktua
+    url: mailTo:xabi@trikuxabi.eus
+    weight: 30

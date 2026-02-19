@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 2026-02-19
 type: landing
 
 design:
@@ -27,7 +27,7 @@ sections:
       title: Gidaliburuak
       filters:
         folders:
-          - publications
+          - gidaliburuak
         featured_only: false
     design:
       view: card

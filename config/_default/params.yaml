@@ -114,7 +114,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name} {license}"
+    notice: "© {year} {license}"
     license:
       type: cc                          # cc | custom
       allow_derivatives: false
@@ -161,7 +161,7 @@ hugoblox:
       enable: true
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
       style: apa                        # apa | mla | chicago | ieee

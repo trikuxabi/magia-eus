@@ -1,13 +1,10 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Ongi etorri!
+summary: Ezagutu gure gidaliburu eta ekimenak.
+date: 2026-02-19
 authors:
-  - me
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Gidaliburuak
 cover:
   image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
   position:
@@ -22,9 +19,8 @@ cover:
     enabled: true
     height: "80px"
   icon:
-    name: "✨"
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: ''
 ---
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
@@ -221,7 +217,6 @@ Add engaging call-to-action buttons to your data visualization posts:
 
 &nbsp;
 
-{{< button url="/data/results.csv" style="outline" icon="document-arrow-down" >}}Download Data{{< /button >}}
 
 &nbsp;
 

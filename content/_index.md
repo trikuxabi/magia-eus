@@ -25,8 +25,7 @@ sections:
     id: books
     content:
       title: Gidaliburuak
-      count: 0
-      page_type: publication
+      count: 10
       filters:
         folders:
           - gidaliburuak

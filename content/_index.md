@@ -27,7 +27,7 @@ sections:
       title: Gidaliburuak
       filters:
         folders:
-          - publications
+          - gidaliburuak
         featured_only: false
     design:
       view: card

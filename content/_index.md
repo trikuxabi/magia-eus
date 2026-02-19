@@ -11,13 +11,12 @@ design:
 
 sections:
   - block: markdown
-  id: hero
+    id: hero
     content:
       title: Magia gidaliburua
-    subtitle: Ikasi magia, euskaraz.
-    text: Adin guztietako magoentzat kartomagia hastapena.
+      subtitle: Ikasi magia, euskaraz.
+      text: Adin guztietako magoentzat kartomagia hastapena.
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true

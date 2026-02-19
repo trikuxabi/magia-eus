@@ -22,13 +22,12 @@ sections:
           enable: true
 
   - block: collection
-    id: books
+    id: papers
     content:
       title: Gidaliburuak
-      count: 10
       filters:
         folders:
-          - gidaliburuak
+          - publications
         featured_only: false
     design:
       view: card

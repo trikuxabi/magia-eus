@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Ikasi
 cms_exclude: true
 
 # View.

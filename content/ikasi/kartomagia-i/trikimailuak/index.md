@@ -1,5 +1,5 @@
 ---
-title: 'Kartomagia'
+title: 'Trikimailuak'
 
 # Display this page in the Featured widget?
 featured: false
@@ -26,8 +26,6 @@ projects: []
 slides: ""
 ---
 
-Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, hemen material gehigarria topatu ahal izango duzu, zure ikasketa are gehiago sakontzeko.
+Karta adierazlea
 
-{{< button "Trikimailuak" "/trikimailuak" >}}
-
-{{< button "Teknikak" "/teknikak" >}}
+{{< youtube z-E_M4YenOE >}}

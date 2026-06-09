@@ -34,7 +34,7 @@ sections:
 
 
   - block: collection
-    id: news
+    id: blog
     content:
       title: Berriak
       subtitle: ''
@@ -48,6 +48,8 @@ sections:
         author: ''
         category: ''
         tag: ''
+        folders:
+          - berriak
         exclude_featured: false
         exclude_future: false
         exclude_past: false

@@ -35,3 +35,5 @@ Ikasi bederatzi magia joko eta haiek egiteko beharrezko teknika guztiak, gure le
 
 > [!NOTE] Oharra
 > Liburuan hainbat bideo ere aurkituko dituzu, joko eta teknikak ikastea inoiz baino errazagoa izan dadin.
+
+Dagoeneko eskuragarri edozein [Elkar](https://www.elkar.eus/) dendetan.

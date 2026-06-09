@@ -7,9 +7,12 @@ main:
   - name: Hasiera
     url: /
     weight: 10
+  - name: Gidaliburuak
+    url: /gidaliburuak
+    weight: 20
   - name: Berriak
     url: /berriak
-    weight: 20
+    weight: 30
   - name: Kontaktua
     url: mailTo:xabi@trikuxabi.eus
-    weight: 30
+    weight: 40

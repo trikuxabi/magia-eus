@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-summary: ''
+title: 'Magia gidaliburuak'
+summary: 'Harritu zure lagun eta senideak'
 date: 2026-02-19
 type: landing
 
@@ -48,8 +48,6 @@ sections:
         author: ''
         category: ''
         tag: ''
-        folders:
-          - berriak
         exclude_featured: false
         exclude_future: false
         exclude_past: false

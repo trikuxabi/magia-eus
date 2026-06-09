@@ -1,5 +1,5 @@
 ---
-title: 'Kartomagia'
+title: 'Trikimailuak'
 
 # Display this page in the Featured widget?
 featured: false
@@ -37,3 +37,5 @@ slides: ""
 {{< youtube z-E_M4YenOE >}}
 
 &nbsp;
+
+{{< button url="/178533-kartomagia/" >}}Itzuli{{< /button >}}

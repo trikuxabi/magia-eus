@@ -26,11 +26,7 @@ projects: []
 slides: ""
 ---
 
-Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, hemen material gehigarria topatu ahal izango duzu, zure ikasketa are gehiago sakontzeko.
+Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, hemen material gehigarria topatu ahal izango duzu, zure ikasketa are gehiago sakontzeko.  
 
-&nbsp;
-
-{{< button url="/178533-trikimailuak/" >}}Trikimailuak{{< /button >}}
-
-
+{{< button url="/178533-trikimailuak/" >}}Trikimailuak{{< /button >}}  
 {{< button url="/178533-teknikak/" >}}Teknikak{{< /button >}}

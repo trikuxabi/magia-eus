@@ -26,8 +26,7 @@ projects: []
 slides: ""
 ---
 
-Banatzeko posizioa
-{{< youtube z-E_M4YenOE >}}
+Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, hemen material gehigarria topatu ahal izango duzu, zure ikasketa are gehiago sakontzeko.
 
-Mozketa kulunkaria
-{{< youtube z-E_M4YenOE >}}
+{{< button url="/ikasi/kartomagia-i-178533/trikimailuak/" >}}Trikimailuak{{< /button >}}
+{{< button url="/ikasi/kartomagia-i-178533/teknikak/" >}}Teknikak{{< /button >}}

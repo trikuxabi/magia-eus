@@ -30,8 +30,7 @@ Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, he
 
 &nbsp;
 
-{{< button url="/178533-trikimailuak.md/" >}}Trikimailuak{{< /button >}}
+{{< button url="/178533-trikimailuak/" >}}Trikimailuak{{< /button >}}
 
-&nbsp;
 
-{{< button url="/178533-teknikak.md/" >}}Teknikak{{< /button >}}
+{{< button url="/178533-teknikak/" >}}Teknikak{{< /button >}}

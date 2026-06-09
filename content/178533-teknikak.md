@@ -26,8 +26,14 @@ projects: []
 slides: ""
 ---
 
-Banatzeko posizioa
+## Banatzeko posizioa
+23 orrialdea
 {{< youtube z-E_M4YenOE >}}
 
-Mozketa kulunkaria
+## Mozketa kulunkaria
+42 orrialdea
 {{< youtube z-E_M4YenOE >}}
+
+&nbsp;
+
+{{< button url="/178533-kartomagia/" >}}Itzuli{{< /button >}}

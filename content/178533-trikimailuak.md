@@ -26,7 +26,12 @@ projects: []
 slides: ""
 ---
 
-Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, hemen material gehigarria topatu ahal izango duzu, zure ikasketa are gehiago sakontzeko.
+## Bateko sinpatikoak
+23 orrialdea
+{{< youtube z-E_M4YenOE >}}
 
-{{< button url="/ikasi/kartomagia-i-178533/trikimailuak/" >}}Trikimailuak{{< /button >}}
-{{< button url="/ikasi/kartomagia-i-178533/teknikak/" >}}Teknikak{{< /button >}}
+## Triunfoa
+42 orrialdea
+{{< youtube z-E_M4YenOE >}}
+
+&nbsp;

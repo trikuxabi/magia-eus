@@ -13,8 +13,7 @@ sections:
   - block: markdown
     id: hero
     content:
-      title: Magia gidaliburua
-      subtitle: Ikasi magia, euskaraz.
+      title: Ikasi magia, euskaraz.
       text: Adin guztietako magoentzat kartomagia hastapena.
     design:
       background:
@@ -33,6 +32,7 @@ sections:
       view: card
       columns: 2
 
+
   - block: collection
     id: news
     content:
@@ -42,7 +42,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
-      count: 1
+      count: 3
       # Filter on criteria
       filters:
         author: ''

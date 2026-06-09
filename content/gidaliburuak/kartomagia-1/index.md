@@ -1,5 +1,5 @@
 ---
-title: 'Kartomagia'
+title: 'Kartomagia gidaliburua'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -31,10 +31,7 @@ image:
 
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Ikasi bederatzi magia joko eta haiek egiteko beharrezko teknika guztiak, gure lehen gidaliburuan! Kartekin trikimailuak egiten hasi nahi baduzu, hauxe da zure liburua. Zure lagun eta familiako kideak harritzen hasteko prest?
 
-> [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+> [!NOTE] Oharra
+> Liburuan hainbat bideo ere aurkituko dituzu, joko eta teknikak ikastea inoiz baino errazagoa izan dadin.

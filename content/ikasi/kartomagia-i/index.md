@@ -28,4 +28,4 @@ slides: ""
 
 Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, hemen material gehigarria topatu ahal izango duzu, zure ikasketa are gehiago sakontzeko.
 
-{{</* embed src="https://www.youtube.com/watch?v=z-E_M4YenOE" */>}}
+{{< youtube z-E_M4YenOE >}}

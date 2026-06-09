@@ -1,5 +1,5 @@
 ---
-title: Liburu guztien zerrenda
+title: Gidaliburuak
 cms_exclude: true
 
 # View.

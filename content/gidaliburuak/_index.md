@@ -3,7 +3,7 @@ title: Gidaliburuak
 cms_exclude: true
 
 # View.
-view: article-grid
+view: showcase
 
 # Optional header image (relative to `static/media/` folder).
 banner:

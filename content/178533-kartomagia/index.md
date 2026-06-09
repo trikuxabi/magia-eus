@@ -1,5 +1,5 @@
 ---
-title: 'Kartomagia'
+title: 'Kartomagia gidaliburua'
 
 # Display this page in the Featured widget?
 featured: false
@@ -10,6 +10,9 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false
+robots: noindex
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

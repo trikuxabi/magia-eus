@@ -28,5 +28,10 @@ slides: ""
 
 Eskerrik asko gure kartomagia gidaliburua erosi izanagatik. Datozen asteetan, hemen material gehigarria topatu ahal izango duzu, zure ikasketa are gehiago sakontzeko.
 
-{{< button url="/ikasi/kartomagia-i-178533/trikimailuak/" >}}Trikimailuak{{< /button >}}
-{{< button url="/ikasi/kartomagia-i-178533/teknikak/" >}}Teknikak{{< /button >}}
+&nbsp;
+
+{{< button url="/178533-trikimailuak.md/" >}}Trikimailuak{{< /button >}}
+
+&nbsp;
+
+{{< button url="/178533-teknikak.md/" >}}Teknikak{{< /button >}}

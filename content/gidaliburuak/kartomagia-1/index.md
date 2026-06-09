@@ -16,9 +16,9 @@ featured: true
 
 # Custom links
 links:
-  - type: "ELKAR"
+  - name: "ELKAR"
     url: https://www.elkar.eus/
-  - type: "FNAC"
+  - name: "FNAC"
     url: https://fnac.es/
 
 

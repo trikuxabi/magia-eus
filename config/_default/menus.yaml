@@ -7,12 +7,12 @@ main:
   - name: Hasiera
     url: /
     weight: 10
-  - name: Gidaliburuak
-    url: /gidaliburuak
+  - name: Proiektuak
+    url: /proiektuak
     weight: 20
   - name: Berriak
     url: /blog
     weight: 30
   - name: Kontaktua
-    url: mailTo:xabi@trikuxabi.eus
+    url: mailTo:magia@magia.eus
     weight: 40

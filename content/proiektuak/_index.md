@@ -1,5 +1,5 @@
 ---
-title: Gidaliburuak
+title: Proiektuak
 cms_exclude: true
 
 # View.

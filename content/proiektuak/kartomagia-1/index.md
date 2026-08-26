@@ -1,5 +1,5 @@
 ---
-title: 'Kartomagia gidaliburua'
+title: 'Aztikeriak 1: Kartomagia'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
@@ -18,8 +18,8 @@ featured: true
 links:
   - name: "ELKAR"
     url: https://www.elkar.eus/
-  - name: "FNAC"
-    url: https://fnac.es/
+  - name: "ONLINE EROSI"
+    url: https://trikuxabi.eus/
 
 
 # Featured image

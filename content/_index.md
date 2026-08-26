@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Magia gidaliburuak'
-summary: 'Harritu zure lagun eta senideak'
+title: 'Aztikeriak'
+summary: 'Ikasi magia euskaraz'
 date: 2026-02-19
 type: landing
 
@@ -13,8 +13,8 @@ sections:
   - block: markdown
     id: hero
     content:
-      title: Ikasi magia, euskaraz.
-      text: Adin guztietako magoentzat kartomagia hastapena.
+      title: Aztikeriak.
+      text: Ikasi magia, euskaraz.
     design:
       background:
         gradient_mesh:
@@ -23,10 +23,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Gidaliburuak
+      title: Proeiktuak
       filters:
         folders:
-          - gidaliburuak
+          - proiektuak
         featured_only: false
     design:
       view: card
